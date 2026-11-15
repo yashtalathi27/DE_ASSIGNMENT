@@ -3,7 +3,7 @@
 **Course:** Data Engineering · Sem 7  
 **Student Name:** Yash Talathi 
 **Roll Number:** 23BCS246  
-**GitHub Repository:** [https://github.com/nikghost17/23bcs259_DE_Submission](https://github.com/nikghost17/23bcs259_DE_Submission)  
+**GitHub Repository:** [https://github.com/nikghost17/23bcs246_DE_Submission](https://github.com/nikghost17/23bcs259_DE_Submission)  
 
 ---
 
